@@ -28,8 +28,8 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "eas": {
-        "projectId": "9984e9cc-772f-4fe8-b523-3796229244b2"
+      "eas": {  
+        "projectId": "1d3f3ec9-b796-44e3-bb78-5cda7713bb83"
       }
     }
   }
